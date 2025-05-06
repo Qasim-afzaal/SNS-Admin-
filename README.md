@@ -1,1 +1,1 @@
-# SNS-Admin-
+# SNS-Admin Server-
