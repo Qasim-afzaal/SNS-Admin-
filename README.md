@@ -26,7 +26,7 @@ A Flutter-based digital signage player application designed for playing content 
 ### Setup
 
 ```bash
-git clone https://github.com/<your-username>/singage_player.git
+git clone https://github.com/<Qasim-afzaal>/singage_player.git
 cd singage_player
 flutter pub get
 ````
