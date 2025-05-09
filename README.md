@@ -1,6 +1,3 @@
-Here’s an improved and professional `README.md` file for your Flutter project, tailored for GitHub:
-
-````markdown
 # 🎥 Singage Player
 
 A Flutter-based digital signage player application designed for playing content within a controlled webview environment.
