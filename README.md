@@ -59,6 +59,3 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 * [InAppWebView Wiki](https://inappwebview.dev/docs/)
 
 ```
-
-Would you like me to include instructions for using Git LFS or `.gitignore` for build artifacts?
-```
