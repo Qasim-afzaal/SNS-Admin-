@@ -11,10 +11,6 @@ A Flutter-based digital signage player application designed for playing content 
 - Console logs and JavaScript channel communication
 - Navigation and URL tracking
 
-## 📸 Screenshots
-
-
-
 ## 🛠️ Getting Started
 
 ### Prerequisites
