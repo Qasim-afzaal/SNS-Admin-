@@ -13,7 +13,7 @@ A Flutter-based digital signage player application designed for playing content 
 
 ## 📸 Screenshots
 
-> _Add screenshots here if applicable_
+
 
 ## 🛠️ Getting Started
 
