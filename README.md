@@ -45,8 +45,6 @@ lib/
 
 * [`flutter_inappwebview`](https://pub.dev/packages/flutter_inappwebview)
 
-## ✍️ Author
-
 
 ## 📃 License
 
