@@ -47,7 +47,6 @@ lib/
 
 ## ✍️ Author
 
-* **Muhammad Qasim** – [@Qasim-afzaal](https://github.com/Qasim-afzaal)
 
 ## 📃 License
 
