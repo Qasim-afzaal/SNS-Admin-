@@ -17,7 +17,6 @@ A Flutter-based digital signage player application designed for playing content 
 
 - [Flutter SDK](https://flutter.dev/docs/get-started/install)
 - Android Studio / Xcode
-- Git
 
 ### Setup
 
