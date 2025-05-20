@@ -1,4 +1,4 @@
-# 🎥 Singage Player
+# 🎥 Singage Admin 
 
 A Flutter-based digital signage player application designed for playing content within a controlled webview environment.
 
